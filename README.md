@@ -87,6 +87,8 @@ Preprocessing steps include missing value imputation, feature scaling, and encod
 4. **Hyperparameter Tuning**: Optimizing models for maximum accuracy.
 5. **Model Evaluation**: Assessing performance using precision, recall, F1 score, and other metrics.
 
+![0](https://github.com/user-attachments/assets/f08ae1be-aca7-4bbd-82e6-fe012c5f17f4)
+
 ### Pipeline Workflow
 1. **Data Preprocessing**: Data cleaning and preparation.
 2. **Model Training**: Training multiple machine learning models.
