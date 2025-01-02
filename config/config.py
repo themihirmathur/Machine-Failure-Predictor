@@ -18,7 +18,7 @@ ARTIFACTS_DIR.mkdir(parents=True, exist_ok=True)
 REPORTS_DIR.mkdir(parents=True, exist_ok=True)
 
 
-RAW_DATA_URL = "https://github.com/themihirmathur/Machine-Failure-Predictor/tree/main/data/raw/data.csv"
+RAW_DATA_URL = "https://github.com/themihirmathur/Machine-Failure-Predictor/blob/main/data/raw/data.csv"
 
 LOGS_DIR = Path(BASE_DIR, "logs")
 LOGS_DIR.mkdir(parents=True, exist_ok=True)
