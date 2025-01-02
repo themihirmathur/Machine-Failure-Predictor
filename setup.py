@@ -7,11 +7,11 @@ with open(Path(BASE_DIR, "requirements.txt"), "r") as f:
     required_packages = [ln.strip() for ln in f.readlines()]
 
 setup(
-    name="Predictive Maintenance",
+    name="Machine Failure Predictor",
     version="0.0.1",
     description="Predictive Maintenance Multi-Model Classification Project",
-    author="Vishwas Gowda",
-    url="https://github.com/vishwasg217/Predictive-Maintenance",
+    author="Mihir Mathur",
+    url="https://github.com/themihirmathur/Machine-Failure-Predictor",
     packages=find_namespace_packages(),
     install_requires=required_packages,
 )
